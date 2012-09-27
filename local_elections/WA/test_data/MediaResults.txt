@@ -1,0 +1,507 @@
+RaceID	RaceName	BallotID	BallotName	Votes	TotalBallotsCastByRace	PartyName	RaceJurisdictionTypeName
+2	U.S. Senator	23036	Michael Baumgartner	417141	1387059	(Prefers Republican Party)	Federal
+2	U.S. Senator	27435	Will Baker	15005	1387059	(Prefers Reform Party)	Federal
+2	U.S. Senator	23001	Chuck Jackson	25983	1387059	(Prefers Republican Party)	Federal
+2	U.S. Senator	27816	Timmy (Doc) Wilson	31817	1387059	(Prefers Democratic Party)	Federal
+2	U.S. Senator	23970	Art Coday	79727	1387059	(Prefers Republican Party)	Federal
+2	U.S. Senator	23100	Maria Cantwell	772058	1387059	(Prefers Democratic Party)	Federal
+2	U.S. Senator	27073	Glen (Stocky) R. Stockwell	25793	1387059	(Prefers Republican Party)	Federal
+2	U.S. Senator	24705	Mike the Mover	19535	1387059	(Prefers Republican Party)	Federal
+6	Congressional District 1 - U.S. Representative	24528	John Koster	67185	149756	(Prefers Republican Party)	Congressional
+6	Congressional District 1 - U.S. Representative	26753	Darcy Burner	20844	149756	(Prefers Democratic Party)	Congressional
+6	Congressional District 1 - U.S. Representative	23664	Darshan Rauniyar	4134	149756	(Prefers Democratic Party)	Congressional
+6	Congressional District 1 - U.S. Representative	25052	Laura Ruderman	10582	149756	(Prefers Democratic Party)	Congressional
+6	Congressional District 1 - U.S. Representative	24562	Suzan DelBene	33670	149756	(Prefers Democratic Party)	Congressional
+6	Congressional District 1 - U.S. Representative	26205	Steve Hobbs	10279	149756	(Prefers Democratic Party)	Congressional
+6	Congressional District 1 - U.S. Representative	25163	Larry Ishmael	3062	149756	(Prefers Independent Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	24756	Brian Berry	2796	158359	(Prefers Democratic Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	27546	Ruth Morrison	1939	158359	(Prefers Democrat Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	26977	Laura Ruderman	15463	158359	(Prefers Democratic Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	22982	J. Byron Holcomb	1396	158359	(Prefers Democratic Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	27035	Darshan Rauniyar	5143	158359	(Prefers Democratic Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	27521	John Koster	56631	158359	(Prefers Republican Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	26302	Brian Sullivan	4861	158359	(Prefers Democratic Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	27549	Steven J. Gerdes	4066	158359	(Prefers Republican Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	25826	Bob Champion	2542	158359	(Prefers Independent Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	26917	Suzan DelBene	39620	158359	(Prefers Democratic Party)	Congressional
+28828	Congressional District 1 One Month Short Term - U.S. Representative	26759	Darcy Burner	23902	158359	(Prefers Democratic Party)	Congressional
+8	Congressional District 2 - U.S. Representative	23306	Mike Lapointe	5806	139186	(Prefers The 99% Party)	Congressional
+8	Congressional District 2 - U.S. Representative	22834	Dan Matthews	39956	139186	(Prefers Republican Party)	Congressional
+8	Congressional District 2 - U.S. Representative	24905	Eli Olson	3373	139186	(Prefers Republican Party)	Congressional
+8	Congressional District 2 - U.S. Representative	24244	Rick Larsen	79632	139186	(Prefers Democratic Party)	Congressional
+8	Congressional District 2 - U.S. Representative	27082	Glen S. Johnson	2289	139186	(States No Party Preference)	Congressional
+8	Congressional District 2 - U.S. Representative	25116	John C. W. Shoop	8130	139186	(Prefers The Republican Party)	Congressional
+5	Congressional District 3 - U.S. Representative	23291	Jaime Herrera Beutler	68603	121404	(Prefers Republican Party)	Congressional
+5	Congressional District 3 - U.S. Representative	23030	Jon T. Haugen	45693	121404	(Prefers Democratic Party)	Congressional
+5	Congressional District 3 - U.S. Representative	27671	Norma Jean Stevens	7108	121404	(States No Party Preference)	Congressional
+7	Congressional District 4 - U.S. Representative	25333	Mary Baechler	27130	102443	(Prefers Democratic Party)	Congressional
+7	Congressional District 4 - U.S. Representative	23090	Doc Hastings	60774	102443	(Prefers Republican Party)	Congressional
+7	Congressional District 4 - U.S. Representative	26820	Mohammad H. Said	2958	102443	(Prefers Democratic Party)	Congressional
+7	Congressional District 4 - U.S. Representative	26198	Jamie Wheeler	11581	102443	(Prefers Republican Party)	Congressional
+4	Congressional District 5 - U.S. Representative	24882	Ian Moody	4693	149179	(States No Party Preference)	Congressional
+4	Congressional District 5 - U.S. Representative	23616	Rich Cowan	49406	149179	(Prefers Democratic Party)	Congressional
+4	Congressional District 5 - U.S. Representative	27501	Randall L. Yearout	11894	149179	(Prefers Republican Party)	Congressional
+4	Congressional District 5 - U.S. Representative	25711	Cathy McMorris Rodgers	83186	149179	(Prefers Republican Party)	Congressional
+9	Congressional District 6 - U.S. Representative	22827	Jesse Young	18075	161834	(Prefers Republican Party)	Congressional
+9	Congressional District 6 - U.S. Representative	27318	Eric G. Arentz Jr.	4101	161834	(Prefers Independent Party)	Congressional
+9	Congressional District 6 - U.S. Representative	22787	Derek Kilmer	86436	161834	(Prefers Democratic Party)	Congressional
+9	Congressional District 6 - U.S. Representative	25317	Bill Driscoll	29602	161834	(Prefers Republican Party)	Congressional
+9	Congressional District 6 - U.S. Representative	24897	David (Ike) Eichner	7966	161834	(Prefers Republican Party)	Congressional
+9	Congressional District 6 - U.S. Representative	27013	Stephan Andrew Brodhead	1387	161834	(Prefers Republican Party)	Congressional
+9	Congressional District 6 - U.S. Representative	26012	Doug Cloud	14267	161834	(Prefers Republican Party)	Congressional
+11	Congressional District 7 - U.S. Representative	23590	Don Rivers	2688	175838	(Prefers Democratic Party)	Congressional
+11	Congressional District 7 - U.S. Representative	27772	Goodspaceguy	1387	175838	(Prefers Employmentwealth Party)	Congressional
+11	Congressional District 7 - U.S. Representative	22665	Scott Sutherland	5573	175838	(Prefers G.O.P. Party)	Congressional
+11	Congressional District 7 - U.S. Representative	24676	Andrew Hughes	10340	175838	(Prefers Democratic Party)	Congressional
+11	Congressional District 7 - U.S. Representative	24517	Jim McDermott	124692	175838	(Prefers Democratic Party)	Congressional
+11	Congressional District 7 - U.S. Representative	27737	Ron Bemis	26791	175838	(Prefers Republican Party)	Congressional
+11	Congressional District 7 - U.S. Representative	26476	Charles Allen	4367	175838	(Prefers Democratic Party)	Congressional
+12	Congressional District 8 - U.S. Representative	22838	Dave Reichert	66220	130823	(Prefers Republican Party)	Congressional
+12	Congressional District 8 - U.S. Representative	22480	Keith Swank	10942	130823	(Prefers Republican Party)	Congressional
+12	Congressional District 8 - U.S. Representative	24089	James Windle	5269	130823	(States No Party Preference)	Congressional
+12	Congressional District 8 - U.S. Representative	22964	Karen Porterfield	37083	130823	(Prefers Democratic Party)	Congressional
+12	Congressional District 8 - U.S. Representative	25490	Keith Arnold	7144	130823	(Prefers Democratic Party)	Congressional
+12	Congressional District 8 - U.S. Representative	25127	Ernest Huber	4165	130823	(Prefers Republican Party)	Congressional
+10	Congressional District 9 - U.S. Representative	24555	Adam Smith	72868	119143	(Prefers Democratic Party)	Congressional
+10	Congressional District 9 - U.S. Representative	23655	Jim Postma	27616	119143	(Prefers Republican Party)	Congressional
+10	Congressional District 9 - U.S. Representative	25337	Tom Cramer	8376	119143	(Prefers Democratic Party)	Congressional
+10	Congressional District 9 - U.S. Representative	25259	Dave Christie	3659	119143	(Prefers F.D.R. Democrat Party)	Congressional
+10	Congressional District 9 - U.S. Representative	25920	John Orlinski	6624	119143	(Prefers Republican Party)	Congressional
+28824	Congressional District 10 - U.S. Representative	23441	Stan Flemming	19934	128497	(Prefers Republican Party)	Congressional
+28824	Congressional District 10 - U.S. Representative	22744	Richard (Dick) Muri	36173	128497	(Prefers Republican Party)	Congressional
+28824	Congressional District 10 - U.S. Representative	25029	Denny Heck	51047	128497	(Prefers Democratic Party)	Congressional
+28824	Congressional District 10 - U.S. Representative	23605	Steve Hannon	3025	128497	(States No Party Preference)	Congressional
+28824	Congressional District 10 - U.S. Representative	27670	Jennifer Ferguson	14026	128497	(Prefers Democratic Party)	Congressional
+28824	Congressional District 10 - U.S. Representative	25859	Sue Gunn	4292	128497	(Prefers Prog Independent Party)	Congressional
+13	Governor	24769	Rob Hill	45453	1409867	(Prefers Democratic Party)	State Executive
+13	Governor	26224	Rob McKenna	604872	1409867	(Prefers Republican Party)	State Executive
+13	Governor	24230	Jay Inslee	664534	1409867	(Prefers Democratic Party)	State Executive
+13	Governor	27356	James White	13764	1409867	(Prefers Independent Party)	State Executive
+13	Governor	27494	Christian Joubert	10457	1409867	(States No Party Preference)	State Executive
+13	Governor	25182	Shahram Hadian	46169	1409867	(Prefers Republican Party)	State Executive
+13	Governor	25059	L. Dale Sorgen	9734	1409867	(Prefers Independent Party)	State Executive
+13	Governor	25871	Max Sampson	8753	1409867	(Prefers Republican Party)	State Executive
+13	Governor	25246	Javier O. Lopez	6131	1409867	(Prefers Republican Party)	State Executive
+14	Lt. Governor	23000	Glenn Anderson	229318	1335908	(Prefers Indep Republican Party)	State Executive
+14	Lt. Governor	22477	Brad Owen	648110	1335908	(Prefers Democrat Party)	State Executive
+14	Lt. Governor	26503	James Robert Deal	53694	1335908	(States No Party Preference)	State Executive
+14	Lt. Governor	24457	Bill Finkbeiner	352195	1335908	(Prefers Republican Party)	State Executive
+14	Lt. Governor	27838	Dave T. Sumner IV	6057	1335908	(Prefers Neopopulist Party)	State Executive
+14	Lt. Governor	27436	Mark Greene	46534	1335908	(Prefers Democracy Indep. Party)	State Executive
+15	Secretary of State	22637	Jim Kastama	185425	1330036	(Prefers Democratic Party)	State Executive
+15	Secretary of State	27396	David J. Anderson	44276	1330036	(States No Party Preference)	State Executive
+15	Secretary of State	22512	Sam Wright	20809	1330036	(Prefers The Human Rights Party)	State Executive
+15	Secretary of State	22883	Karen Murray	50888	1330036	(Prefers Constitution Party)	State Executive
+15	Secretary of State	22633	Kathleen Drew	289052	1330036	(Prefers Democratic Party)	State Executive
+15	Secretary of State	23674	Kim Wyman	528754	1330036	(Prefers Republican Party)	State Executive
+15	Secretary of State	23136	Greg Nickels	210832	1330036	(Prefers Democratic Party)	State Executive
+16	State Treasurer	24576	Jim McIntire	925850	958189	(Prefers Democratic Party)	State Executive
+17	State Auditor	23764	Troy Kelley	291335	1267935	(Prefers Democratic Party)	State Executive
+17	State Auditor	22785	James Watkins	584444	1267935	(Prefers Republican Party)	State Executive
+17	State Auditor	25686	Mark Miloscia	123936	1267935	(Prefers Democratic Party)	State Executive
+17	State Auditor	25425	Craig Pridemore	268220	1267935	(Prefers Democratic Party)	State Executive
+18	Attorney General	24100	Bob Ferguson	685346	1326055	(Prefers Democratic Party)	State Executive
+18	Attorney General	22967	Reagan Dunn	506524	1326055	(Prefers Republican Party)	State Executive
+18	Attorney General	25162	Stephen Pidgeon	134185	1326055	(Prefers Republican Party)	State Executive
+19	Commissioner of Public Lands	27181	Stephen A. Sharon	92993	1317348	(States No Party Preference)	State Executive
+19	Commissioner of Public Lands	22479	Peter J. Goldmark	683448	1317348	(Prefers Democratic Party)	State Executive
+19	Commissioner of Public Lands	27283	Clint Didier	540907	1317348	(Prefers Republican Party)	State Executive
+20	Superintendent of Public Instruction	24486	James Bauckman	149370	1128273		State Executive
+20	Superintendent of Public Instruction	22926	Randy I. Dorn	634314	1128273		State Executive
+20	Superintendent of Public Instruction	25932	Don Hansler	104360	1128273		State Executive
+20	Superintendent of Public Instruction	25087	John Patterson Blair	67898	1128273		State Executive
+20	Superintendent of Public Instruction	27177	Ronald L. (Ron) Higgins	172331	1128273		State Executive
+21	Insurance Commissioner	24724	John R. Adams	279052	1296827	(Prefers Republican Party)	State Executive
+21	Insurance Commissioner	23279	Mike Kreidler	712095	1296827	(Prefers Democratic Party)	State Executive
+21	Insurance Commissioner	25866	Scott Reilly	241377	1296827	(Prefers Republican Party)	State Executive
+21	Insurance Commissioner	24732	Brian C. Berend	64303	1296827	(Prefers Independent Party)	State Executive
+228	Legislative District 1 - State Senator	24480	Rosemary McAuliffe	13238	29905	(Prefers Democratic  Party)	Legislative
+228	Legislative District 1 - State Senator	22504	Guy Palumbo	4048	29905	(Prefers Democratic Party)	Legislative
+228	Legislative District 1 - State Senator	25074	Dawn McCravey	12619	29905	(Prefers Republican Party)	Legislative
+229	Legislative District 1 - State Representative Pos. 1	24939	Greg Rankich	2567	28810	(Prefers Democratic Party)	Legislative
+229	Legislative District 1 - State Representative Pos. 1	23273	Derek Stanford	13388	28810	(Prefers Democratic Party)	Legislative
+229	Legislative District 1 - State Representative Pos. 1	27645	Brian Travis	5129	28810	(Prefers Republican Party)	Legislative
+229	Legislative District 1 - State Representative Pos. 1	26803	Sandy Guinn	7726	28810	(Prefers Republican Party)	Legislative
+230	Legislative District 1 - State Representative Pos. 2	23393	Luis Moscoso	19798	20346	(Prefers Democratic Party)	Legislative
+231	Legislative District 2 - State Senator	24545	Randi Becker	9517	23422	(Prefers Republican Party)	Legislative
+231	Legislative District 2 - State Senator	23585	James E. Vaughn	4393	23422	(Prefers Republican Party)	Legislative
+231	Legislative District 2 - State Senator	25673	Bruce L. Lachney	9512	23422	(Prefers Democratic Party)	Legislative
+232	Legislative District 2 - State Representative Pos. 1	27540	Greg Hartman	9477	22978	(Prefers Democratic Party)	Legislative
+232	Legislative District 2 - State Representative Pos. 1	23680	Gary Alexander	13501	22978	(Prefers Republican Party)	Legislative
+233	Legislative District 2 - State Representative Pos. 2	23612	J.T. Wilcox	17880	17880	(Prefers Republican Party)	Legislative
+234	Legislative District 3 - State Senator	22921	Nancy McLaughlin	9694	22884	(Prefers G.O.P. Party)	Legislative
+234	Legislative District 3 - State Senator	23586	Andy Billig	13190	22884	(Prefers Democratic Party)	Legislative
+235	Legislative District 3 - State Representative Pos. 1	24227	Tim Benn	4868	22541	(Prefers G.O.P. Party)	Legislative
+235	Legislative District 3 - State Representative Pos. 1	24601	Marcus Riccelli	6277	22541	(Prefers Democratic Party)	Legislative
+235	Legislative District 3 - State Representative Pos. 1	23244	Bob Apple	4086	22541	(Prefers Democratic Party)	Legislative
+235	Legislative District 3 - State Representative Pos. 1	24904	Jon Snyder	4317	22541	(Prefers Democratic Party)	Legislative
+235	Legislative District 3 - State Representative Pos. 1	26733	Morgan Oyler	2993	22541	(Prefers Republican Party)	Legislative
+236	Legislative District 3 - State Representative Pos. 2	25910	Dave White	8494	22596	(Prefers Republican Party)	Legislative
+236	Legislative District 3 - State Representative Pos. 2	23480	Timm Ormsby	14102	22596	(Prefers Democratic Party)	Legislative
+237	Legislative District 4 - State Senator	23275	Mike Padden	22626	22626	(Prefers Republican  Party)	Legislative
+238	Legislative District 4 - State Representative Pos. 1	22939	Larry Crouse	22277	22277	(Prefers Republican Party)	Legislative
+239	Legislative District 4 - State Representative Pos. 2	27158	Matt Shea	18047	30064	(Prefers Republican Party)	Legislative
+239	Legislative District 4 - State Representative Pos. 2	24582	Amy C. Biviano	12017	30064	(Prefers Democratic Party)	Legislative
+240	Legislative District 5 - State Senator	26002	Brad Toft	13310	27972	(Prefers Republican Party)	Legislative
+240	Legislative District 5 - State Senator	24710	Mark Mullet	14662	27972	(Prefers Democratic Party)	Legislative
+241	Legislative District 5 - State Representative Pos. 1	24610	Jay Rodne	19775	19775	(Prefers Republican Party)	Legislative
+242	Legislative District 5 - State Representative Pos. 2	27873	Ryan Dean Burkett	1202	27382	(States No Party Preference)	Legislative
+242	Legislative District 5 - State Representative Pos. 2	27876	David Spring	11526	27382	(Prefers Democratic Party)	Legislative
+242	Legislative District 5 - State Representative Pos. 2	24445	Chad Magendanz	14654	27382	(Prefers Republican Party)	Legislative
+244	Legislative District 6 - State Representative Pos. 1	25424	Kevin Parker	21398	21398	(Prefers Republican Party)	Legislative
+245	Legislative District 6 - State Representative Pos. 2	22745	Jeff Holy	9680	31059	(Prefers Republican Party)	Legislative
+245	Legislative District 6 - State Representative Pos. 2	25961	Ben Oakley	5127	31059	(Prefers Republican Party)	Legislative
+245	Legislative District 6 - State Representative Pos. 2	22953	Dennis Dellwo	12967	31059	(Prefers Democratic Party)	Legislative
+245	Legislative District 6 - State Representative Pos. 2	22691	Larry Keller	3285	31059	(Prefers Republican Party)	Legislative
+247	Legislative District 7 - State Representative Pos. 1	23551	Shelly Short	25092	25092	(Prefers Republican Party)	Legislative
+248	Legislative District 7 - State Representative Pos. 2	26271	Robert (Bob) Wilson	10105	26880	(Prefers Republican Party)	Legislative
+248	Legislative District 7 - State Representative Pos. 2	25778	Joel Kretz	16775	26880	(Prefers Republican Party)	Legislative
+251	Legislative District 8 - State Representative Pos. 1	24293	Jay Clough	8720	24923	(Prefers Democratic Party)	Legislative
+251	Legislative District 8 - State Representative Pos. 1	26073	Brad Klippert	16203	24923	(Prefers Republican Party)	Legislative
+252	Legislative District 8 - State Representative Pos. 2	26862	Richard Reuther	6035	24976	(Prefers Democratic Party)	Legislative
+252	Legislative District 8 - State Representative Pos. 2	23180	Larry Haler	13663	24976	(Prefers Republican Party)	Legislative
+252	Legislative District 8 - State Representative Pos. 2	24661	Bob Parks	5278	24976	(Prefers Republican Party)	Legislative
+253	Legislative District 9 - State Senator	24120	Mark G. Schoesler	18749	18749	(Prefers G.O.P. Party)	Legislative
+254	Legislative District 9 - State Representative Pos. 1	24617	Susan Fagan	18669	18669	(Prefers Republican Party)	Legislative
+255	Legislative District 9 - State Representative Pos. 2	23914	Joe Schmick	18722	18722	(Prefers Republican  Party)	Legislative
+256	Legislative District 10 - State Senator	25604	Barbara Bailey	21301	40018	(Prefers Republican Party)	Legislative
+256	Legislative District 10 - State Senator	25196	Mary Margaret Haugen	18717	40018	(Prefers Democratic Party)	Legislative
+257	Legislative District 10 - State Representative Pos. 1	25971	Aaron Simpson	15783	38837	(Prefers Democratic Party)	Legislative
+257	Legislative District 10 - State Representative Pos. 1	23582	Norma Smith	23054	38837	(Prefers Republican Party)	Legislative
+258	Legislative District 10 - State Representative Pos. 2	23792	Dave Hayes	19543	37852	(Prefers Republican Party)	Legislative
+258	Legislative District 10 - State Representative Pos. 2	23329	Tom Riggs	18309	37852	(Prefers Democratic Party)	Legislative
+259	Legislative District 11 - State Senator	27866	Kristin Thompson	7126	21846	(Prefers Republican Party)	Legislative
+259	Legislative District 11 - State Senator	24629	Bob Hasegawa	14720	21846	(Prefers Democratic Party)	Legislative
+260	Legislative District 11 - State Representative Pos. 1	27915	Zack Hudgins	12653	17787	(Prefers Democratic Party)	Legislative
+260	Legislative District 11 - State Representative Pos. 1	24606	Jim Flynn	5134	17787	(Prefers Democratic Party)	Legislative
+261	Legislative District 11 - State Representative Pos. 2	25003	Steve Bergquist	6074	21663	(Prefers Democratic Party)	Legislative
+261	Legislative District 11 - State Representative Pos. 2	24989	Bobby Virk	3040	21663	(Prefers Democratic Party)	Legislative
+261	Legislative District 11 - State Representative Pos. 2	25992	Stephanie Bowman	4853	21663	(Prefers Democratic Party)	Legislative
+261	Legislative District 11 - State Representative Pos. 2	24454	Rob Holland	2245	21663	(Prefers Democratic  Party)	Legislative
+261	Legislative District 11 - State Representative Pos. 2	27056	Sarah Sanoy-Wright	5451	21663	(Prefers Republican Party)	Legislative
+262	Legislative District 12 - State Senator	24250	Linda Evans Parlette	24683	24683	(Prefers Gop Party)	Legislative
+263	Legislative District 12 - State Representative Pos. 1	26357	Cary Condotta	17901	27437	(Prefers Republican Party)	Legislative
+263	Legislative District 12 - State Representative Pos. 1	23006	Stan Morse	9536	27437	(Prefers Republican Party)	Legislative
+264	Legislative District 12 - State Representative Pos. 2	23084	Mike Armstrong	16451	28019	(Prefers Republican Party)	Legislative
+264	Legislative District 12 - State Representative Pos. 2	22478	Brad Hawkins	11568	28019	(Prefers Republican Party)	Legislative
+266	Legislative District 13 - State Representative Pos. 1	24118	Judith (Judy) Warnick	18345	18345	(Prefers Republican Party)	Legislative
+267	Legislative District 13 - State Representative Pos. 2	25348	Kaj Selmann	6748	22337	(Prefers Democratic Party)	Legislative
+267	Legislative District 13 - State Representative Pos. 2	22818	Matt Manweller 	15589	22337	(Prefers Republican Party)	Legislative
+268	Legislative District 14 - State Senator	23107	Curtis King	17241	17241	(Prefers Republican Party)	Legislative
+269	Legislative District 14 - State Representative Pos. 1	26704	Paul Spencer	7640	21848	(Prefers Democratic Party)	Legislative
+269	Legislative District 14 - State Representative Pos. 1	23557	Norm Johnson	14208	21848	(Prefers Republican Party)	Legislative
+270	Legislative District 14 - State Representative Pos. 2	27741	Mathew K.M. Tomaskin	7269	21999	(Prefers Democratic Party)	Legislative
+270	Legislative District 14 - State Representative Pos. 2	24110	Charles Ross	14730	21999	(Prefers Republican Party)	Legislative
+272	Legislative District 15 - State Representative Pos. 1	25372	Bruce Chandler	12006	12006	(Prefers Republican Party)	Legislative
+273	Legislative District 15 - State Representative Pos. 2	26739	Pablo Gonzalez	4276	14266	(Prefers Democratic Party)	Legislative
+273	Legislative District 15 - State Representative Pos. 2	24751	David V. Taylor	9990	14266	(Prefers Republican Party)	Legislative
+274	Legislative District 16 - State Senator	25627	Scott Nettles	6870	23256	(Prefers Democratic Party)	Legislative
+274	Legislative District 16 - State Senator	24210	Mike Hewitt	16386	23256	(Prefers Republican Party)	Legislative
+275	Legislative District 16 - State Representative Pos. 1	24271	Maureen Walsh	13468	21522	(Prefers Republican Party)	Legislative
+275	Legislative District 16 - State Representative Pos. 1	23733	Mary Ruth Edwards	8054	21522	(Prefers Republican Party)	Legislative
+276	Legislative District 16 - State Representative Pos. 2	22859	Terry R. Nealey	18433	18433	(Prefers Republican Party)	Legislative
+277	Legislative District 17 - State Senator	25356	Don Benton	10902	20914	(Prefers Republican Party)	Legislative
+277	Legislative District 17 - State Senator	25014	Tim Probst	10012	20914	(Prefers Democratic Party)	Legislative
+278	Legislative District 17 - State Representative Pos. 1	23614	Julie Olson	8785	20681	(Prefers Republican Party)	Legislative
+278	Legislative District 17 - State Representative Pos. 1	23458	Monica Stonier	9390	20681	(Prefers Democratic Party)	Legislative
+278	Legislative District 17 - State Representative Pos. 1	23725	Matthew Homola	2506	20681	(Prefers Republican Party)	Legislative
+279	Legislative District 17 - State Representative Pos. 2	25089	Paul Harris	11749	20543	(Prefers Republican Party)	Legislative
+279	Legislative District 17 - State Representative Pos. 2	26910	Jim Gizzi	8794	20543	(Prefers Democratic Party)	Legislative
+280	Legislative District 18 - State Senator	27433	Ralph Schmidt	8881	24578	(Prefers Democratic Party)	Legislative
+280	Legislative District 18 - State Senator	27881	Ann Rivers	15697	24578	(Prefers Republican Party)	Legislative
+281	Legislative District 18 - State Representative Pos. 1	27882	Brandon Vick	11373	17572	(Prefers Republican Party)	Legislative
+281	Legislative District 18 - State Representative Pos. 1	27825	Adrian E. Cortes	6199	17572	(Prefers Republican Party)	Legislative
+282	Legislative District 18 - State Representative Pos. 2	27205	David Shehorn	7278	24198	(Prefers Democratic Party)	Legislative
+282	Legislative District 18 - State Representative Pos. 2	27271	Ryan Gompertz	2082	24198	(Prefers Democratic Party)	Legislative
+282	Legislative District 18 - State Representative Pos. 2	23594	Liz Pike	14838	24198	(Prefers Republican Party)	Legislative
+283	Legislative District 19 - State Senator	23369	Brian Hatfield	16898	28440	(Prefers Democratic Party)	Legislative
+283	Legislative District 19 - State Senator	23054	Rick Winsman	11542	28440	(Prefers Republican Party)	Legislative
+284	Legislative District 19 - State Representative Pos. 1	24137	Dixie Kolditz	11316	27905	(Prefers Republican Party)	Legislative
+284	Legislative District 19 - State Representative Pos. 1	22683	Dean Takko	16589	27905	(Prefers Democratic Party)	Legislative
+285	Legislative District 19 - State Representative Pos. 2	22771	Brian E. Blake	19506	20358	(Prefers Democratic Party)	Legislative
+286	Legislative District 20 - State Senator	25078	John E. Braun	9327	23124	(Prefers Republican Party)	Legislative
+286	Legislative District 20 - State Senator	23340	Dan Swecker	10861	23124	(Prefers Republican Party)	Legislative
+286	Legislative District 20 - State Senator	25339	Rae Lowery	2936	23124	(Prefers Republican Party)	Legislative
+287	Legislative District 20 - State Representative Pos. 1	23079	Richard DeBolt	20117	20117	(Prefers Republican Party)	Legislative
+288	Legislative District 20 - State Representative Pos. 2	23494	John Morgan	8553	21169	(Prefers Republican Party)	Legislative
+288	Legislative District 20 - State Representative Pos. 2	22908	Ed Orcutt	12616	21169	(Prefers Republican Party)	Legislative
+290	Legislative District 21 - State Representative Pos. 1	23047	Mary Helen Roberts	18239	18239	(Prefers Democratic Party)	Legislative
+291	Legislative District 21 - State Representative Pos. 2	24438	Marko Liias	17378	17761	(Prefers Democratic Party)	Legislative
+291	Legislative District 21 - State Representative Pos. 2	27964	Write-In: Kevin Morrison	383	17761	(Prefers Republican Party)	Legislative
+292	Legislative District 22 - State Senator	23057	Karen Fraser	24154	24154	(Prefers Democratic Party)	Legislative
+293	Legislative District 22 - State Representative Pos. 1	22856	Chris Reykdal	23547	23547	(Prefers Democratic Party)	Legislative
+294	Legislative District 22 - State Representative Pos. 2	24126	Sam Hunt	23809	23809	(Prefers Democratic Party)	Legislative
+295	Legislative District 23 - State Senator	27406	Bret A. Treadwell	11658	33336	(Prefers Republican Party)	Legislative
+295	Legislative District 23 - State Senator	24717	Christine Rolfes	21678	33336	(Prefers Democratic Party)	Legislative
+296	Legislative District 23 - State Representative Pos. 1	23365	Sherry V. Appleton	20298	33642	(Prefers Democratic Party)	Legislative
+296	Legislative District 23 - State Representative Pos. 1	26725	Tony Stephens	13344	33642	(Prefers Republican Party)	Legislative
+297	Legislative District 23 - State Representative Pos. 2	24713	Drew Hansen	17377	32989	(Prefers Democratic Party)	Legislative
+297	Legislative District 23 - State Representative Pos. 2	23391	James M. Olsen	13334	32989	(Prefers Republican Party)	Legislative
+297	Legislative District 23 - State Representative Pos. 2	27814	Henning B. Larsen	2278	32989	(Prefers Democratic Party)	Legislative
+298	Legislative District 24 - State Senator	27743	Larry Carter	13056	37705	(Prefers Independent Party)	Legislative
+298	Legislative District 24 - State Senator	23378	Jim Hargrove	24649	37705	(Prefers Democratic Party)	Legislative
+299	Legislative District 24 - State Representative Pos. 1	22927	Kevin Van De Wege	26680	27617	(Prefers Democratic Party)	Legislative
+300	Legislative District 24 - State Representative Pos. 2	25625	Steve Gale	16399	38532	(Prefers Republican Party)	Legislative
+300	Legislative District 24 - State Representative Pos. 2	24144	Steve Tharinger	22133	38532	(Prefers Democratic Party)	Legislative
+301	Legislative District 25 - State Senator	24177	Eric Herde	9193	24999	(Prefers Democratic Party)	Legislative
+301	Legislative District 25 - State Senator	22753	Bruce Dammeier	15806	24999	(Prefers Republican Party)	Legislative
+302	Legislative District 25 - State Representative Pos. 1	26606	Dawn Morrell	11704	25145	(Prefers Democratic Party)	Legislative
+302	Legislative District 25 - State Representative Pos. 1	25104	Shelly Schlumpf	7940	25145	(Prefers Republican Party)	Legislative
+302	Legislative District 25 - State Representative Pos. 1	26316	Zac Nix	1272	25145	(Prefers Republican Party)	Legislative
+302	Legislative District 25 - State Representative Pos. 1	22760	Eric Hingsberger	1073	25145	(Prefers Democratic Party)	Legislative
+302	Legislative District 25 - State Representative Pos. 1	26112	Carole Sue Braaten	568	25145	(Prefers Republican Party)	Legislative
+302	Legislative District 25 - State Representative Pos. 1	26481	Michele Smith	2588	25145	(Prefers Republican  Party)	Legislative
+303	Legislative District 25 - State Representative Pos. 2	24945	Hans Zeiger	14484	24939	(Prefers Republican Party)	Legislative
+303	Legislative District 25 - State Representative Pos. 2	23050	Bill Hilton	10455	24939	(Prefers Democratic Party)	Legislative
+305	Legislative District 26 - State Representative Pos. 1	25613	Karin Ashabraner	9763	33180	(Prefers Democratic Party)	Legislative
+305	Legislative District 26 - State Representative Pos. 1	24309	Jan Angel	19152	33180	(Prefers Republican Party)	Legislative
+305	Legislative District 26 - State Representative Pos. 1	26478	Stephen Greer	4265	33180	(Prefers Democratic Party)	Legislative
+306	Legislative District 26 - State Representative Pos. 2	25362	Doug Richards	15408	33046	(Prefers Republican Party)	Legislative
+306	Legislative District 26 - State Representative Pos. 2	25171	Larry Seaquist	17638	33046	(Prefers Democratic Party)	Legislative
+307	Legislative District 27 - State Senator	25968	John R. (Jack) Connelly	9785	23523	(Prefers Democratic Party)	Legislative
+307	Legislative District 27 - State Senator	23534	Jeannie Darneille	13738	23523	(Prefers Democratic Party)	Legislative
+308	Legislative District 27 - State Representative Pos. 1	25707	Steven T. Cook	6285	24222	(Prefers Republican Party)	Legislative
+308	Legislative District 27 - State Representative Pos. 1	23331	Laurie Jinkins	17937	24222	(Prefers Democratic Party)	Legislative
+309	Legislative District 27 - State Representative Pos. 2	25894	Lauren Walker	10639	22717	(Prefers Democratic Party)	Legislative
+309	Legislative District 27 - State Representative Pos. 2	25040	Jake Fey	12078	22717	(Prefers Democratic Party)	Legislative
+310	Legislative District 28 - State Senator	24369	Yoshie Wong	10838	27397	(Prefers Democratic Party)	Legislative
+310	Legislative District 28 - State Senator	24122	Mike Carrell	16559	27397	(Prefers G.O.P. Party)	Legislative
+311	Legislative District 28 - State Representative Pos. 1	23660	Eric Choiniere	11391	26592	(Prefers Democratic Party)	Legislative
+311	Legislative District 28 - State Representative Pos. 1	22941	Steve O'Ban	12375	26592	(Prefers Republican Party)	Legislative
+311	Legislative District 28 - State Representative Pos. 1	26084	Ken Campbell	2826	26592	(Prefers Republican Party)	Legislative
+312	Legislative District 28 - State Representative Pos. 2	24816	Tami Green	14110	27524	(Prefers Democratic Party)	Legislative
+312	Legislative District 28 - State Representative Pos. 2	22807	Paul Wagemann	10239	27524	(Prefers Republican Party)	Legislative
+312	Legislative District 28 - State Representative Pos. 2	25865	Malcolm Russell	3175	27524	(Prefers Republican Party)	Legislative
+314	Legislative District 29 - State Representative Pos. 1	23383	David Sawyer	6404	16563	(Prefers Democratic Party)	Legislative
+314	Legislative District 29 - State Representative Pos. 1	22934	Terry Harder	6101	16563	(Prefers Republican Party)	Legislative
+314	Legislative District 29 - State Representative Pos. 1	25781	Ben Lawver	4058	16563	(Prefers Democratic Party)	Legislative
+315	Legislative District 29 - State Representative Pos. 2	22739	Steve Kirby	12840	12840	(Prefers Democratic Party)	Legislative
+317	Legislative District 30 - State Representative Pos. 1	23290	Linda Kochmar	5492	20795	(Prefers Republican Party)	Legislative
+317	Legislative District 30 - State Representative Pos. 1	23099	Jerry Galland	1625	20795	(Prefers Republican Party)	Legislative
+317	Legislative District 30 - State Representative Pos. 1	24534	Thom Macfarlane	4070	20795	(Prefers Democratic Party)	Legislative
+317	Legislative District 30 - State Representative Pos. 1	23451	Roger Flygare	5360	20795	(Prefers Democratic Party)	Legislative
+317	Legislative District 30 - State Representative Pos. 1	26180	Tony Moore	4248	20795	(Prefers Republican Party)	Legislative
+318	Legislative District 30 - State Representative Pos. 2	25364	Katrina Asay	9965	20528	(Prefers Republican Party)	Legislative
+318	Legislative District 30 - State Representative Pos. 2	24793	Rick Hoffman	3842	20528	(Prefers Democratic Party)	Legislative
+318	Legislative District 30 - State Representative Pos. 2	26484	Roger Freeman	6721	20528	(Prefers Democratic Party)	Legislative
+320	Legislative District 31 - State Representative Pos. 1	27015	Brian L. Gunn	9112	25281	(Prefers Democratic Party)	Legislative
+320	Legislative District 31 - State Representative Pos. 1	22825	Cathy Dahlquist	16169	25281	(Prefers Republican Party)	Legislative
+321	Legislative District 31 - State Representative Pos. 2	25168	Lisa Connors	10699	24781	(Prefers Republican Party)	Legislative
+321	Legislative District 31 - State Representative Pos. 2	22494	Christopher Hurst	14082	24781	(Prefers Independent Dem. Party)	Legislative
+323	Legislative District 32 - State Representative Pos. 1	25233	Randy J. Hayden	8693	28942	(Prefers Republican Party)	Legislative
+323	Legislative District 32 - State Representative Pos. 1	22990	Cindy Ryu	20249	28942	(Prefers Democratic Party)	Legislative
+324	Legislative District 32 - State Representative Pos. 2	24678	Robert Reedy	5865	29119	(Prefers Republican Party)	Legislative
+324	Legislative District 32 - State Representative Pos. 2	23828	Ruth Kagi	20346	29119	(Prefers Democratic Party)	Legislative
+324	Legislative District 32 - State Representative Pos. 2	27538	Eric R. Alvey	2908	29119	(Prefers Gop Party)	Legislative
+326	Legislative District 33 - State Representative Pos. 1	25115	Will Benge	5952	20022	(Prefers Republican Party)	Legislative
+326	Legislative District 33 - State Representative Pos. 1	24712	Tina Orwall	14070	20022	(Prefers Democratic Party)	Legislative
+327	Legislative District 33 - State Representative Pos. 2	26744	Dave Upthegrove	15549	15711	(Prefers Democratic Party)	Legislative
+327	Legislative District 33 - State Representative Pos. 2	27969	Write-In: Martin Metz	162	15711	(Prefers Republican Party)	Legislative
+329	Legislative District 34 - State Representative Pos. 1	27036	William Giammarese	4492	27729	(Prefers Democratic Party)	Legislative
+329	Legislative District 34 - State Representative Pos. 1	24593	Eileen L. Cody	23237	27729	(Prefers Democratic Party)	Legislative
+330	Legislative District 34 - State Representative Pos. 2	26039	Joe Fitzgibbon	24247	24247	(Prefers Democratic Party)	Legislative
+332	Legislative District 35 - State Representative Pos. 1	25426	Kathy Haigh	17653	33652	(Prefers Democratic Party)	Legislative
+332	Legislative District 35 - State Representative Pos. 1	24095	Dan Griffey	15999	33652	(Prefers Republican Party)	Legislative
+333	Legislative District 35 - State Representative Pos. 2	22812	Lynda Ring-Erickson	9265	33150	(Prefers Democratic Party)	Legislative
+333	Legislative District 35 - State Representative Pos. 2	22767	Drew C. MacEwen	14088	33150	(Prefers Republican Party)	Legislative
+333	Legislative District 35 - State Representative Pos. 2	25358	Jeff Davis	7788	33150	(Prefers Democratic Party)	Legislative
+333	Legislative District 35 - State Representative Pos. 2	22910	Glenn H. Gaither	2009	33150	(Prefers Independent Party)	Legislative
+335	Legislative District 36 - State Representative Pos. 1	26049	Reuven Carlyle	31623	35927	(Prefers Democratic Party)	Legislative
+335	Legislative District 36 - State Representative Pos. 1	24708	Robert Canamar	1522	35927	(States No Party Preference)	Legislative
+335	Legislative District 36 - State Representative Pos. 1	24753	Leslie Klein	2782	35927	(Prefers (R) Hope&change Party)	Legislative
+336	Legislative District 36 - State Representative Pos. 2	25743	Gael Tarleton	10130	35818	(Prefers Democratic Party)	Legislative
+336	Legislative District 36 - State Representative Pos. 2	24631	Sahar Fathi	4665	35818	(Prefers Democratic Party)	Legislative
+336	Legislative District 36 - State Representative Pos. 2	27045	Ryan Gabriel	4757	35818	(Prefers Republican Party)	Legislative
+336	Legislative District 36 - State Representative Pos. 2	25951	Evan Clifthorne	2113	35818	(Prefers Democratic Party)	Legislative
+336	Legislative District 36 - State Representative Pos. 2	24668	Linde Knighton	679	35818	(Prefers Progressive Party)	Legislative
+336	Legislative District 36 - State Representative Pos. 2	27024	Brett Phillips	5034	35818	(Prefers Democratic Party)	Legislative
+336	Legislative District 36 - State Representative Pos. 2	27874	Noel Christina Frame	8440	35818	(Prefers Democratic Party)	Legislative
+338	Legislative District 37 - State Representative Pos. 1	24747	Sharon Tomiko Santos	21855	21855	(Prefers Democratic Party)	Legislative
+339	Legislative District 37 - State Representative Pos. 2	27864	Tamra Smilanich	3223	24792	(Prefers Non-partisan Party)	Legislative
+339	Legislative District 37 - State Representative Pos. 2	25927	Eric Pettigrew	21569	24792	(Prefers Democratic Party)	Legislative
+341	Legislative District 38 - State Representative Pos. 1	27766	Sam Wilson	9075	21940	(Prefers Republican Party)	Legislative
+341	Legislative District 38 - State Representative Pos. 1	22892	John McCoy	12865	21940	(Prefers Democratic Party)	Legislative
+342	Legislative District 38 - State Representative Pos. 2	22821	Mike Sells	13156	21619	(Prefers Democratic Party)	Legislative
+342	Legislative District 38 - State Representative Pos. 2	26387	Michael Casey	8463	21619	(Prefers Gop Party)	Legislative
+343	Legislative District 39 - State Senator	25885	Scott Olson	11589	27083	(Prefers Democratic Party)	Legislative
+343	Legislative District 39 - State Senator	22679	Kirk Pearson	15494	27083	(Prefers Republican Party)	Legislative
+344	Legislative District 39 - State Representative Pos. 1	27554	Linda Wright	11944	26860	(Prefers Democrat Party)	Legislative
+344	Legislative District 39 - State Representative Pos. 1	23093	Dan Kristiansen	14916	26860	(Prefers Republican Party)	Legislative
+345	Legislative District 39 - State Representative Pos. 2	23444	Robert G. Zimmerman	5943	26465	(Prefers Republican Party)	Legislative
+345	Legislative District 39 - State Representative Pos. 2	22495	Elizabeth Scott	6830	26465	(Prefers Republican Party)	Legislative
+345	Legislative District 39 - State Representative Pos. 2	25138	Robert Pilgrim	1793	26465	(Prefers Republican Party)	Legislative
+345	Legislative District 39 - State Representative Pos. 2	23446	Gregory Dean Lemke	677	26465	(Prefers Republican Party)	Legislative
+345	Legislative District 39 - State Representative Pos. 2	27380	Jocelynne (Josie) Fallgatter	3492	26465	(Prefers Democratic Party)	Legislative
+345	Legislative District 39 - State Representative Pos. 2	27353	Eleanor Walters	7730	26465	(Prefers Democratic Party)	Legislative
+346	Legislative District 40 - State Senator	25119	John Swapp	10791	31339	(Prefers Independent-Gop Party)	Legislative
+346	Legislative District 40 - State Senator	23730	Kevin Ranker	18684	31339	(Prefers Democratic Party)	Legislative
+346	Legislative District 40 - State Senator	26236	Jim Cozad	1864	31339	(States No Party Preference)	Legislative
+347	Legislative District 40 - State Representative Pos. 1	22981	Kristine Lytton	21777	22498	(Prefers Democratic Party)	Legislative
+348	Legislative District 40 - State Representative Pos. 2	27465	Howard A. Pellett	5568	25851	(Prefers Green Party)	Legislative
+348	Legislative District 40 - State Representative Pos. 2	23070	Jeff Morris	20283	25851	(Prefers Democratic Party)	Legislative
+349	Legislative District 41 - State Senator	26006	Maureen Judge	13874	31714	(Prefers Democratic Party)	Legislative
+349	Legislative District 41 - State Senator	25710	Steve Litzow	17840	31714	(Prefers Republican Party)	Legislative
+350	Legislative District 41 - State Representative Pos. 1	27066	Tim Eaves	13243	31592	(Prefers Republican Party)	Legislative
+350	Legislative District 41 - State Representative Pos. 1	24686	Marcie Maxwell	18349	31592	(Prefers Democratic Party)	Legislative
+351	Legislative District 41 - State Representative Pos. 2	24451	Judy Clibborn	22326	22326	(Prefers Democratic Party)	Legislative
+353	Legislative District 42 - State Representative Pos. 1	27210	Natalie McClendon	13724	31072	(Prefers Democratic Party)	Legislative
+353	Legislative District 42 - State Representative Pos. 1	25900	Jason Overstreet	17348	31072	(Prefers    Republican Party)	Legislative
+354	Legislative District 42 - State Representative Pos. 2	27746	Matthew Krogh	13721	30995	(Prefers Democrat Party)	Legislative
+354	Legislative District 42 - State Representative Pos. 2	23568	Vincent Buys	17274	30995	(Prefers Republican Party)	Legislative
+356	Legislative District 43 - State Representative Pos. 1	27859	Kshama Sawant	2854	31259	(Prefers Socialist Altern Party)	Legislative
+356	Legislative District 43 - State Representative Pos. 1	24520	Jamie Pedersen	28405	31259	(Prefers Democratic Party)	Legislative
+357	Legislative District 43 - State Representative Pos. 2	25958	Frank Chopp	24287	30477	(Prefers Democratic Party)	Legislative
+357	Legislative District 43 - State Representative Pos. 2	24600	Gregory Gadow	2585	30477	(States No Party Preference)	Legislative
+357	Legislative District 43 - State Representative Pos. 2	28037	Write-In: Kshama Sawant	3605	30477	(States No Party Preference)	Legislative
+359	Legislative District 44 - State Representative Pos. 1	22858	Hans Dunshee	14199	27273	(Prefers Democratic Party)	Legislative
+359	Legislative District 44 - State Representative Pos. 1	22762	Mark Harmsworth	8442	27273	(Prefers Republican Party)	Legislative
+359	Legislative District 44 - State Representative Pos. 1	27520	B.J. Guillot	1027	27273	(Prefers Republican Party)	Legislative
+359	Legislative District 44 - State Representative Pos. 1	24863	Robert (Bob) McCaughan	3605	27273	(Prefers Republican Party)	Legislative
+360	Legislative District 44 - State Representative Pos. 2	25160	Mike Hope	15930	27385	(Prefers Republican Party)	Legislative
+360	Legislative District 44 - State Representative Pos. 2	24004	Mary McNaughton	11455	27385	(Prefers Democratic Party)	Legislative
+362	Legislative District 45 - State Representative Pos. 1	25997	Roger Goodman	14174	28954	(Prefers Democratic Party)	Legislative
+362	Legislative District 45 - State Representative Pos. 1	24519	Jacob Bond	1895	28954	(Prefers Democratic Party)	Legislative
+362	Legislative District 45 - State Representative Pos. 1	24475	Joel Hussey	12885	28954	(Prefers Republican Party)	Legislative
+363	Legislative District 45 - State Representative Pos. 2	25738	Jim Thatcher	12773	29082	(Prefers Republican Party)	Legislative
+363	Legislative District 45 - State Representative Pos. 2	24364	Larry Springer	16309	29082	(Prefers Democratic Party)	Legislative
+364	Legislative District 46 - State Senator	24581	David Frockt	28144	28144	(Prefers Democratic Party)	Legislative
+365	Legislative District 46 - State Representative Pos. 1	27895	Sylvester Cann	12876	31957	(Prefers Democratic Party)	Legislative
+365	Legislative District 46 - State Representative Pos. 1	25123	Gerry Pollet	19081	31957	(Prefers Democratic Party)	Legislative
+366	Legislative District 46 - State Representative Pos. 2	26800	Jessyn Farrell	10560	35231	(Prefers Democratic  Party)	Legislative
+366	Legislative District 46 - State Representative Pos. 2	25790	Dusty Hoerler	4350	35231	(Prefers Democratic Party)	Legislative
+366	Legislative District 46 - State Representative Pos. 2	27871	Scott M. Hodges	6271	35231	(Prefers Republican Party)	Legislative
+366	Legislative District 46 - State Representative Pos. 2	26797	Shelly Crocker	5571	35231	(Prefers Democratic  Party)	Legislative
+366	Legislative District 46 - State Representative Pos. 2	25726	Sarajane Siegfriedt	7823	35231	(Prefers Democratic Party)	Legislative
+366	Legislative District 46 - State Representative Pos. 2	27870	Stan Lippmann	656	35231	(Prefers Democratic-Repub Party)	Legislative
+368	Legislative District 47 - State Representative Pos. 1	25921	Bud Sizemore	10453	22695	(Prefers Democratic  Party)	Legislative
+368	Legislative District 47 - State Representative Pos. 1	24992	Mark Hargrove 	12242	22695	(Prefers Republican Party)	Legislative
+369	Legislative District 47 - State Representative Pos. 2	25113	Pat Sullivan	13090	22481	(Prefers Democratic Party)	Legislative
+369	Legislative District 47 - State Representative Pos. 2	25735	Andy Massagli	9391	22481	(Prefers Republican Party)	Legislative
+371	Legislative District 48 - State Representative Pos. 1	25001	Ross Hunter	18225	26408	(Prefers Democratic Party)	Legislative
+371	Legislative District 48 - State Representative Pos. 1	24748	Bill Hirt	8183	26408	(Prefers Republican Party)	Legislative
+372	Legislative District 48 - State Representative Pos. 2	27875	Hank Myers	11395	26233	(Prefers Republican Party)	Legislative
+372	Legislative District 48 - State Representative Pos. 2	24987	Cyrus Habib	14838	26233	(Prefers Democratic Party)	Legislative
+373	Legislative District 49 - State Senator	25266	Eileen Qutub	8942	20537	(Prefers G.O.P. Party)	Legislative
+373	Legislative District 49 - State Senator	23322	Annette Cleveland	11595	20537	(Prefers Democratic Party)	Legislative
+374	Legislative District 49 - State Representative Pos. 1	22748	Sharon Wylie	11905	20885	(Prefers Democratic Party)	Legislative
+374	Legislative District 49 - State Representative Pos. 1	26885	Debbie Peterson	8980	20885	(Prefers Republican Party)	Legislative
+375	Legislative District 49 - State Representative Pos. 2	25245	Carolyn Crain	8998	20881	(Prefers Republican Party)	Legislative
+375	Legislative District 49 - State Representative Pos. 2	25833	Jim Moeller	11883	20881	(Prefers Democratic Party)	Legislative
+23	Supreme Court - Justice Position 2	25308	Douglas W. McQuaid	266106	1116330		Judicial
+23	Supreme Court - Justice Position 2	22696	Susan Owens	707717	1116330		Judicial
+23	Supreme Court - Justice Position 2	25901	Scott Stafne	142507	1116330		Judicial
+29	Supreme Court - Justice Position 8	27584	Bruce O. Danielson	438867	1102970		Judicial
+29	Supreme Court - Justice Position 8	22800	Steve Gonzalez	664103	1102970		Judicial
+30	Supreme Court - Justice Position 9	23014	Bruce Hilyer	311944	1135128		Judicial
+30	Supreme Court - Justice Position 9	22992	Sheryl Gordon McCloud	328345	1135128		Judicial
+30	Supreme Court - Justice Position 9	24650	Richard B. Sanders	323410	1135128		Judicial
+30	Supreme Court - Justice Position 9	24241	John W. Ladenburg	171429	1135128		Judicial
+34	Court of Appeals, Division 1, District 1 - Judge Position 4	24326	Ronald E. Cox	253810	253810		Judicial
+37	Court of Appeals, Division 1, District 1 - Judge Position 7	24993	Marlin Appelwick	247549	247549		Judicial
+40	Court of Appeals, Division 1, District 3 - Judge Position 1	23521	Mary Kay Becker	62896	62896		Judicial
+43	Court of Appeals, Division 2, District 1 - Judge Position 3	22989	Christine Quinn-Brintnall	106003	106003		Judicial
+45	Court of Appeals, Division 2, District 2 - Judge Position 2	23567	Thomas Bjorgen	26062	143102		Judicial
+45	Court of Appeals, Division 2, District 2 - Judge Position 2	22783	Pamela (Pam) Loginsky	38293	143102		Judicial
+45	Court of Appeals, Division 2, District 2 - Judge Position 2	23894	Thomas (Tom) E. Weaver, Jr.	15133	143102		Judicial
+45	Court of Appeals, Division 2, District 2 - Judge Position 2	23573	Michael Lynch	20147	143102		Judicial
+45	Court of Appeals, Division 2, District 2 - Judge Position 2	25893	Brendan Williams	23706	143102		Judicial
+45	Court of Appeals, Division 2, District 2 - Judge Position 2	24979	Jim Foley	19761	143102		Judicial
+46	Court of Appeals, Division 2, District 3 - Judge Position 1	22839	Joel Penoyar	72198	72198		Judicial
+48	Court of Appeals, Division 3, District 1 - Judge Position 1	22955	Laurel Siddoway	77767	77767		Judicial
+52	Court of Appeals, Division 3, District 3 - Judge Position 2	26398	Devin Poulson	21630	52334		Judicial
+52	Court of Appeals, Division 3, District 3 - Judge Position 2	24909	Teresa C. Kulik	30704	52334		Judicial
+65	Adams Superior Court  - Judge Position 1	22862	Randy J. Flyckt	1212	2750		Judicial
+65	Adams Superior Court  - Judge Position 1	22844	Brian H. Miller	1538	2750		Judicial
+53	Asotin, Columbia, Garfield Superior Court - Judge Position 1	23353	William D. (Bill) Acey	5920	5920		Judicial
+66	Chelan Superior Court - Judge Position 1	22740	Lesley A. Allan	12316	12316		Judicial
+67	Chelan Superior Court - Judge Position 2	22714	T.W "Chip" Small	12985	12985		Judicial
+142	Chelan Superior Court - Judge Position 3	23704	Charles R. Steinberg	3492	17272		Judicial
+142	Chelan Superior Court - Judge Position 3	23547	Travis Brandt	4692	17272		Judicial
+142	Chelan Superior Court - Judge Position 3	25351	Ruth Esparza	2320	17272		Judicial
+142	Chelan Superior Court - Judge Position 3	23217	Alicia H. Nakata	6768	17272		Judicial
+68	Clallam Superior Court - Judge Position 1	23316	William Payne	3763	17725		Judicial
+68	Clallam Superior Court - Judge Position 1	22662	Christopher Melly	4192	17725		Judicial
+68	Clallam Superior Court - Judge Position 1	23277	Erik Rohrer	6445	17725		Judicial
+68	Clallam Superior Court - Judge Position 1	23581	Curtis G. Johnson	3325	17725		Judicial
+69	Clallam Superior Court - Judge Position 2	23191	George L. Wood	14031	14031		Judicial
+6195	Clallam Superior Court - Judge Position 3	24057	S. Brooke Taylor	13601	13601		Judicial
+71	Clark Superior Court - Judge Position 2	22866	John P. Wulle	27252	59054		Judicial
+71	Clark Superior Court - Judge Position 2	23527	David E. Gregerson	31802	59054		Judicial
+77	Clark Superior Court - Judge Position 8	23122	Josephine(Josie) Townsend	20969	56801		Judicial
+77	Clark Superior Court - Judge Position 8	22689	Diane M. Woolard	35832	56801		Judicial
+81	Cowlitz Superior Court - Judge Position 4	26083	Joseph Daggy	7001	17673		Judicial
+81	Cowlitz Superior Court - Judge Position 4	22922	Marilyn Haan	10672	17673		Judicial
+82	Douglas Superior Court  - Judge Position 1	23209	John Hotchkiss	5556	5556		Judicial
+59	Ferry, Pend Oreille, Stevens Superior Court - Judge Position 1	23305	Patrick A. Monasmith	10400	10400		Judicial
+60	Ferry, Pend Oreille, Stevens Superior Court - Judge Position 2	23072	Allen Nielson	10244	10244		Judicial
+83	Grant Superior Court - Judge Position 1	22704	Evan E Sperline	9396	9396		Judicial
+84	Grant Superior Court - Judge Position 2	22694	John Knodell	8908	8908		Judicial
+85	Grant Superior Court - Judge Position 3	22712	John Antosz	8631	8631		Judicial
+86	Grays Harbor Superior Court - Judge Position 1	22632	Gordon L. Godfrey	10612	10612		Judicial
+87	Grays Harbor Superior Court - Judge Position 2	22629	Dave Edwards	10542	10542		Judicial
+88	Grays Harbor Superior Court - Judge Position 3	22625	Mark McCauley	10597	10597		Judicial
+9219	Island Superior Court - Judge Position 1	23638	Alan R. Hancock	17136	17136		Judicial
+9220	Island Superior Court - Judge Position 2	23648	Vickie I. Churchill	16620	16620		Judicial
+89	Jefferson Superior Court - Judge Position 1	24410	Peggy Ann Bierbaum	3792	11348		Judicial
+89	Jefferson Superior Court - Judge Position 1	22623	Keith C Harper	5439	11348		Judicial
+89	Jefferson Superior Court - Judge Position 1	25397	Michael Haas	2117	11348		Judicial
+138	King Superior Court - Judge Position 25	26755	Elizabeth Berns	171720	334164		Judicial
+138	King Superior Court - Judge Position 25	26013	Roger Davidheiser	108968	334164		Judicial
+138	King Superior Court - Judge Position 25	24594	Eric Schmidt	53476	334164		Judicial
+143	King Superior Court - Judge Position 29	25798	Hong Tran	77246	334270		Judicial
+143	King Superior Court - Judge Position 29	24695	Sean O'Donnell	257024	334270		Judicial
+144	King Superior Court - Judge Position 30	27868	Kimberly Allen	130053	328472		Judicial
+144	King Superior Court - Judge Position 30	24422	Doug North	198419	328472		Judicial
+156	King Superior Court - Judge Position 42	27018	Sue Parisien	152763	327147		Judicial
+156	King Superior Court - Judge Position 42	26754	Marianne Jones	67453	327147		Judicial
+156	King Superior Court - Judge Position 42	27851	David Ruzumna	24606	327147		Judicial
+156	King Superior Court - Judge Position 42	24420	Christopher A. Washington	82325	327147		Judicial
+160	King Superior Court - Judge Position 46	24255	Judy Ramseyer	203728	324792		Judicial
+160	King Superior Court - Judge Position 46	24425	Gary Ernsdorff	121064	324792		Judicial
+96	Kitsap Superior Court - Judge Position 7	23587	Jennifer Forbes	25248	51247		Judicial
+96	Kitsap Superior Court - Judge Position 7	25410	Rob MacDermid	8647	51247		Judicial
+96	Kitsap Superior Court - Judge Position 7	23569	Bill Houser	7271	51247		Judicial
+96	Kitsap Superior Court - Judge Position 7	24711	Karen Klein	10081	51247		Judicial
+97	Kittitas Superior Court - Judge Position 1	23061	Paul Sander	2114	8322		Judicial
+97	Kittitas Superior Court - Judge Position 1	23544	Jim Denison	2414	8322		Judicial
+97	Kittitas Superior Court - Judge Position 1	23723	Fran Chmelewski	3794	8322		Judicial
+377	Kittitas Superior Court - Judge Position 2	23719	Scott R. Sparks	6357	6357		Judicial
+63	Klickitat, Skamania Superior Court - Judge Position 1	23288	Brian Altman	4056	4056		Judicial
+98	Lewis Superior Court - Judge Position 1	24180	Nelson E. Hunt	10915	10915		Judicial
+99	Lewis Superior Court - Judge Position 2	23117	James W. Lawler	11037	11037		Judicial
+100	Lewis Superior Court - Judge Position 3	22847	Richard L. Brosey	11117	11117		Judicial
+101	Lincoln Superior Court - Judge Position 1	23403	John F. Strohmaier	2434	2434		Judicial
+102	Mason Superior Court - Judge Position 1	23588	Amber L Finlay	11147	11147		Judicial
+103	Mason Superior Court - Judge Position 2	22735	Toni A. Sheldon	10915	10915		Judicial
+104	Okanogan Superior Court - Judge Position 1	26979	Karl F. Sloan	3239	8184		Judicial
+104	Okanogan Superior Court - Judge Position 1	23124	Henry (Hank) Rawson	4945	8184		Judicial
+28820	Okanogan Superior Court - Judge Position 2	23563	Chris Culp	6283	6283		Judicial
+64	Pacific, Wahkiakum Superior Court - Judge Position 1	22880	Mike Sullivan	5928	6004		Judicial
+64	Pacific, Wahkiakum Superior Court - Judge Position 1	28039	Write-In: Dennis Gordon	76	6004		Judicial
+170	Pierce Superior Court - Judge Position 5	27412	John (Jack) H. Hill	49493	126948		Judicial
+170	Pierce Superior Court - Judge Position 5	22638	Vicki L. Hogan	77455	126948		Judicial
+172	Pierce Superior Court - Judge Position 7	27681	Bev Grant	51485	127534		Judicial
+172	Pierce Superior Court - Judge Position 7	22778	Jerry Costello	76049	127534		Judicial
+177	Pierce Superior Court - Judge Position 12	23845	Antoni H. Froehling	33890	124747		Judicial
+177	Pierce Superior Court - Judge Position 12	22641	Stephanie Arend	90857	124747		Judicial
+178	Pierce Superior Court - Judge Position 13	24164	James A. Schoenberger, Jr.	34695	124756		Judicial
+178	Pierce Superior Court - Judge Position 13	23422	Kathryn Nelson	90061	124756		Judicial
+183	Pierce Superior Court - Judge Position 18	24401	G. Helen Whitener	52277	121505		Judicial
+183	Pierce Superior Court - Judge Position 18	23961	Stan Rumbaugh	69228	121505		Judicial
+9204	San Juan Superior Court - Judge Position 1	23359	Donald E. Eaton	3859	3859		Judicial
+197	Snohomish Superior Court - Judge Position 11	24669	Jack Follis	57214	118214		Judicial
+197	Snohomish Superior Court - Judge Position 11	22805	Millie Judge	61000	118214		Judicial
+214	Thurston Superior Court - Judge Position 2	26954	Victor M. Minjares	5801	48762		Judicial
+214	Thurston Superior Court - Judge Position 2	26986	Jim Johnson	10748	48762		Judicial
+214	Thurston Superior Court - Judge Position 2	23067	Christine Schaller	23681	48762		Judicial
+214	Thurston Superior Court - Judge Position 2	24698	Marie Clarke	8532	48762		Judicial
+216	Thurston Superior Court - Judge Position 4	25876	Indu Thomas	16822	49207		Judicial
+216	Thurston Superior Court - Judge Position 4	22621	Allen T. Miller	15401	49207		Judicial
+216	Thurston Superior Court - Judge Position 4	23224	Erik D. Price	16984	49207		Judicial
+108	Walla Walla  Superior Court - Judge Position 1	22695	John W. Lohrmann	9979	9979		Judicial
+109	Walla Walla  Superior Court - Judge Position 2	23485	Richard G. Wernette	5573	12486		Judicial
+109	Walla Walla  Superior Court - Judge Position 2	26769	Scott Wolfram	6913	12486		Judicial
+111	Whatcom Superior Court - Judge Position 2	24522	Dave Grant	16963	41276		Judicial
+111	Whatcom Superior Court - Judge Position 2	22675	Deborra Garrett	16814	41276		Judicial
+111	Whatcom Superior Court - Judge Position 2	22644	Carrie M. Coppinger Carter	7499	41276		Judicial
+113	Whitman Superior Court - Judge Position 1	23118	David Frazier	5856	5856		Judicial
